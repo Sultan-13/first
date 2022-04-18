@@ -1,2 +1,4 @@
 # first
-let's try it out
+
+creating first repo on github as a pure beginner
+
